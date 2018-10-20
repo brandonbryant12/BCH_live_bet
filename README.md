@@ -1,6 +1,10 @@
 # This repository is a submission for the LBRY UNH Hackathon 10-19-18
 ## We are proposing a peer-to-peer live betting plugin on top of the LBRY protocol
 
+# Quick start 
+    ./bin/lbrynet
+    npm start
+
 # The problem 
 
 Live betting today sucks!!! 
