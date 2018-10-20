@@ -3,7 +3,7 @@
 
 # The problem 
 
-# Live betting today is that you must deposit crypto into a third party wallet and bet against the house.  
+Live betting today is that you must deposit crypto into a third party wallet and bet against the house.  
 
 The LBRY blockchain will allow users to remove the 'house' from the bet. 
 
