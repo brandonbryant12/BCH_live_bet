@@ -3,6 +3,7 @@
 
 # Quick start 
     ./bin/lbrynet
+    npm install
     npm start
 
 # The problem 
