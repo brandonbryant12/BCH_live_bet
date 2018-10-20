@@ -72,5 +72,11 @@ High premiums on bets
 
 - Proof of comment 
     - use commentors as a source of truth to solve oracle problem.  The idea would be that a commenter would be able to stake       their lbry credits to vote on the outcome of the game.  Staking will lead to a small reward when voting correctly and         severe penalty for voting wrong. 
-    
+
+## Future Implmentations
+- Live Chat
+    - All users watching the same game will have the opportunity to live chat with each other. 
+- Bets via SMS
+    - Users will be able to place and accept bets by simply sending a text message. 
+ 
   
