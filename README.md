@@ -9,6 +9,8 @@ The LBRY blockchain will allow users to remove the 'house' from the bet.
 
 Allowing bets to be peer to peer will result in fee-less betting and users never have to deposit money with a third party
 
+![alt text](Snip20181020_2.png)
+
 # Betting Protocol 
 
 ## Phase 1 
