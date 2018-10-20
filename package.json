@@ -1,0 +1,30 @@
+{
+  "name": "lbrybet",
+  "version": "1.0.0",
+  "description": "#The problem with live betting today is that you must deposit crypto into a third party wallet and bet against the house.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "superagent": "^4.0.0-beta.5",
+    "ts-node": "^7.0.1",
+    "tsc": "^1.20150623.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ts-node index.ts"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonbryant12/LBRYBet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonbryant12/LBRYBet/issues"
+  },
+  "homepage": "https://github.com/brandonbryant12/LBRYBet#readme"
+}
