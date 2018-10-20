@@ -20,11 +20,13 @@ High premiums on bets
 
 # The solution 
 
-  - Allow users to create bets peer to peer.
+  - Allow users to make bets person to person.
 
   - Using a blockchain as an escrow enables these types of bets and eliminates high premiums on bets. 
 
-  - Users never need to set up an account making it easy to create and accept bets.
+  - Using a betting protocol on top of LBRY's protocol offers a unique and simple UX.
+  
+  - LBRYBet is an one stop shop to activly watch sporting events, esports and politcal debates
 
 # Why LBRY needs this built 
 
@@ -63,3 +65,10 @@ High premiums on bets
 ### Game finishes and the escrow is signed over to winner
       - Loser of the game resigns and signs the multisig wallet to send the wager to the winner.  
       - If loser does not resign both parties need to wait for LBRYBet to sign the tx to the winner. 
+
+## Misc ideas
+
+- Proof of comment 
+    - use commentors as a source of truth to solve oracle problem.  The idea would be that a commenter would be able to stake       their lbry credits to vote on the outcome of the game.  Staking will lead to a small reward when voting correctly and         severe penalty for voting wrong. 
+    
+  
