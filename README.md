@@ -28,6 +28,8 @@ High premiums on bets
   
   - LBRYBet is an one stop shop to activly watch sporting events, esports and politcal debates
 
+![alt text](screenshots/frontend.png)
+
 # Why LBRY needs this built 
 
   - People need a reason to switch to a dentralized app! Most people don't care/ignorant to censorship occuring.
