@@ -1,11 +1,13 @@
 # This repository is a submission for the LBRY UNH Hackathon 10-19-18
 ## We are proposing a peer-to-peer live betting plugin on top of the LBRY protocol
 
-# The problem with live betting today is that you must deposit crypto into a third party wallet and bet against the house.  
+# The problem 
 
-## The LBRY blockchain will allow users to remove the 'house' from the bet. 
+# Live betting today is that you must deposit crypto into a third party wallet and bet against the house.  
 
-## Allowing bets to be peer to peer will result in fee-less betting and users never have to deposit money with a third party
+The LBRY blockchain will allow users to remove the 'house' from the bet. 
+
+Allowing bets to be peer to peer will result in fee-less betting and users never have to deposit money with a third party
 
 # Betting Protocol 
 
