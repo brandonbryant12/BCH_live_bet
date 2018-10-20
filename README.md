@@ -11,7 +11,7 @@ You have to deposit crypto into a third party wallet.
 
 High premiums on bets
 
-![alt text](pics/Snip20181020_2.png)
+![alt text](screenshots/Snip20181020_2.png)
 
 # The solution 
 
