@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <title>Bootstrap Example</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+      <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+      <script type="text/javascript" src="js/function.js"></script>
+      <script src="jquery-3.3.1.min.js"></script>
+   </head>
+   <body>
+      <nav class="navbar navbar-inverse">
+         <div class="container-fluid">
+            <div class="navbar-header">
+               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+               </button>
+               <a class="navbar-brand" href="#">LBRY Bet</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+               <ul class="nav navbar-nav">
+                  <!-- <li class="active"><a href="#">Home</a></li> -->
+               </ul>
+               <ul class="nav navbar-nav navbar-right">
+                  <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+               </ul>
+            </div>
+         </div>
+      </nav>
+      <nav class="navbar navbar-inverse">
+         <div class="container-fluid">
+            <div class="navbar-header">
+               <div class="collapse navbar-collapse" id="myNavbar">
+                  <ul class="nav navbar-nav">
+
+                     <li><a href="#">Titans @ Chargers (9:30am)</a></li>
+                     <li class="active"><a href="#">Patriots @ Bills (1:00pm)</a></li>
+                     <li><a href="#">Pathers @ Eagles (1:00pm)</a></li>
+                     <li><a href="#">Saints @ Ravens (4:05pm)</a></li>
+                     <li><a href="#">Cowboys @ Redskins (4:25pm)</a></li>
+                     <li><a href="#">Giants @ Falcons (8:15pm)</a></li>
+
+
+                  </ul>
+               </div>
+            </div>
+         </div>
+      </nav>
+      <div class="container-fluid text-center addMargin">
+         <div class="row content">
+            <div class="col-sm-3 sidenav">
+               <h3>Available Bets</h3>
+               <div class="panel panel-default">
+                  <!-- Default panel contents -->
+                  <div class="panel-heading">Patriots</div>
+                  <!-- List group -->
+                  <ul class="list-group">
+                     <li class="list-group-item">+3.5 Patriots 100 LBC</li>
+                     <li class="list-group-item">+3.5 Patriots 100 LBC</li>
+                     <li class="list-group-item">+3.5 Patriots 100 LBC</li>
+                     <li class="list-group-item">+3.5 Patriots 100 LBC</li>
+                     <li class="list-group-item">+3.5 Patriots 100 LBC</li>
+                  </ul>
+               </div>
+               <div class="panel panel-default">
+                  <!-- Default panel contents -->
+                  <div class="panel-heading">Bears</div>
+                  <!-- List group -->
+                  <ul class="list-group">
+                     <li class="list-group-item">-3.5 Bears 100 LBC</li>
+                     <li class="list-group-item">-3.5 Bears 100 LBC</li>
+                     <li class="list-group-item">-3.5 Bears 100 LBC</li>
+                     <li class="list-group-item">-3.5 Bears 100 LBC</li>
+                     <li class="list-group-item">-3.5 Bears 100 LBC</li>
+                  </ul>
+               </div>
+            </div>
+            <div class="col-sm-6 text-center">
+               <div class="embed-responsive embed-responsive-16by9">
+                  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/016LXFHpFCk?start=66"></iframe>
+               </div>
+               <br>
+               <div class="well">
+                  <h3>Current Sate</h3>
+               </div>
+               <div class="panel panel-default">
+                  <!-- Default panel contents -->
+                  <div class="panel-heading">Current Bets</div>
+                  <!-- List group -->
+                  <ul class="list-group">
+                     <li class="list-group-item">-3.5 Bears 100 LBC</li>
+                     <li class="list-group-item">-3.5 Bears 100 LBC</li>
+                     <li class="list-group-item">-3.5 Bears 100 LBC</li>
+                     <li class="list-group-item">-3.5 Bears 100 LBC</li>
+                     <li class="list-group-item">-3.5 Bears 100 LBC</li>
+                  </ul>
+               </div>
+            </div>
+            <div class="col-sm-3 sidenav">
+               <div class="well">
+                  <h3>Create a Bet</h3>
+                  <form class="form-inline" action="/action_page.php">
+                     <div class="form-group">
+                        <label for="sel1">Team (select one): </label>
+                        <select class="form-control" id="team">
+                           <option>Patriots</option>
+                           <option>Bears</option>
+                        </select>
+                        <div class="form-group">
+                           <br>
+                           <label for="spread">Spread:</label>
+                           <input type="" class="form-control" id="spread" placeholder="Enter spread" name="spread">
+                        </div>
+                        <br><br>
+                        <div class="form-group">
+                           <label for="wager">Wager:</label>
+                           <input type="" class="form-control" id="wager" placeholder="Enter wager" name="wager">
+                        </div>
+                        <br><br>
+                        <button type="submit" class="btn btn-default">Submit</button>
+                  </form>
+                  </div>
+               </div>
+            <div class="panel panel-default">
+               <!-- Default panel contents -->
+               <div class="panel-heading">Pending Bets</div>
+               <!-- List group -->
+               <ul class="list-group">
+                  <li class="list-group-item">-3.5 Bears 100 LBC</li>
+                  <li class="list-group-item">-3.5 Bears 100 LBC</li>
+                  <li class="list-group-item">-3.5 Bears 100 LBC</li>
+                  <li class="list-group-item">-3.5 Bears 100 LBC</li>
+                  <li class="list-group-item">-3.5 Bears 100 LBC</li>
+               </ul>
+            </div>
+         </div>
+      </div>
+      <footer class="container-fluid text-center">
+         <p>Footer Text</p>
+      </footer>
+   </body>
+</html>
