@@ -3,13 +3,31 @@
 
 # The problem 
 
-Live betting today is that you must deposit crypto into a third party wallet and bet against the house.  
+Live betting today sucks!!! 
 
-The LBRY blockchain will allow users to remove the 'house' from the bet. 
+UI/UX sucks
 
-Allowing bets to be peer to peer will result in fee-less betting and users never have to deposit money with a third party
+You have to deposit crypto into a third party wallet.
 
-![alt text](Snip20181020_2.png)
+High premiums on bets
+
+![alt text](Snip20181020_2.png
+
+# The solution 
+
+Allow users to create bets peer to peer.
+
+Using a blockchain as an escrow enables these types of bets and eliminates high premiums on bets. 
+
+Users never need to set up an account making it easy to create and accept bets.
+
+# Why LBRY needs this built 
+
+  - People need a reason to switch to a dentralized app! Most people don't care/ignorant to the censorship accuing by Facebook   and Google.
+
+  - LBRYBet creates an engaging experience and one that cannot be recreated on YouTube. 
+
+  - Greatly increase the utility and vlume of the LBRY Credit
 
 # Betting Protocol 
 
