@@ -15,19 +15,19 @@ High premiums on bets
 
 # The solution 
 
-Allow users to create bets peer to peer.
+  - Allow users to create bets peer to peer.
 
-Using a blockchain as an escrow enables these types of bets and eliminates high premiums on bets. 
+  - Using a blockchain as an escrow enables these types of bets and eliminates high premiums on bets. 
 
-Users never need to set up an account making it easy to create and accept bets.
+  - Users never need to set up an account making it easy to create and accept bets.
 
 # Why LBRY needs this built 
 
-  - People need a reason to switch to a dentralized app! Most people don't care/ignorant to the censorship accuing by Facebook   and Google.
+  - People need a reason to switch to a dentralized app! Most people don't care/ignorant to censorship occuring.
 
   - LBRYBet creates an engaging experience and one that cannot be recreated on YouTube. 
 
-  - Greatly increase the utility and vlume of the LBRY Credit
+  - Greatly increase the utility and volume of the LBRY Credit
 
 # Betting Protocol 
 
