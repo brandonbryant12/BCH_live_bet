@@ -1,8 +1,8 @@
-# This repository is a submission for the LBRY UNH Hackathon 10-19-18
-## We are proposing a peer-to-peer live betting plugin on top of the LBRY protocol
+# Live Bitcoin Betting is an application that allows users to bet on sports games in a decentralized fashion during any live event.
+
+## We are proposing a peer-to-peer live betting protocol 
 
 # Quick start 
-    ./bin/lbrynet
     npm install
     npm start
 
