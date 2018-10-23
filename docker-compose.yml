@@ -1,0 +1,16 @@
+version: '3'
+services: 
+  rabbitmq-server:
+    image: "rabbitmq:3-management"
+    ports: 
+      - "5672:5672"
+      - "15672:15672"
+  host:
+    build: . 
+    env_file:
+      - .env
+    links:
+      - "rabbitmq-server:rabbitmq"
+    depends_on:
+     - rabbitmq-server
+    command: ts-node actors/host.ts

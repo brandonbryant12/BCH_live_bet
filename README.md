@@ -3,8 +3,7 @@
 ## We are proposing a peer-to-peer live betting protocol 
 
 # Quick start 
-    npm install
-    npm start
+    docker-compose up
 
 # The problem 
 
